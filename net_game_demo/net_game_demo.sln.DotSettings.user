@@ -1,0 +1,18 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4c4a94d1_002Db2b1_002D46f1_002D8132_002D1c253ce22bb7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="serde_test #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;UnrealTest::02D9EB67-EC06-37CC-BC04-B3B183E34BE2::Windows,Version=v10.0.22621::net_game_demo.demo.Private.Tests.serde_test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;UnrealTest::02D9EB67-EC06-37CC-BC04-B3B183E34BE2::Windows,Version=v10.0.22621::net_game_demo.demo.Private.Tests.view_cppversion&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;UnrealTest::02D9EB67-EC06-37CC-BC04-B3B183E34BE2::Windows,Version=v10.0.22621::net_game_demo.demo.Private.Tests.LoadMapTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;UnrealTest::02D9EB67-EC06-37CC-BC04-B3B183E34BE2::Windows,Version=v10.0.22621::net_game_demo.demo.Public.Gameplay.FunctionLibrary.ServerFunctionTest.ServerFunction_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;UnrealTest::02D9EB67-EC06-37CC-BC04-B3B183E34BE2::Windows,Version=v10.0.22621::net_game_demo.demo.Private.Tests.net_test&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8d28c5c1_002D78a1_002D471b_002D93f6_002D8e76c3400df4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="serde_test" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;UnrealTest::8E6C39E3-542E-3A76-BB28-9BAC47B69339::Windows,Version=v10.0.22000::net_game_demo.demo.Public.LocalTests.DateTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	
+	</wpf:ResourceDictionary>

@@ -1,0 +1,7 @@
+[submodule "Plugins/game-development-tools"]
+	path = Plugins/game-development-tools
+	url = git@azaz.ltd:azaz/game-development-tools.git
+[submodule "Plugins/HoudiniNiagara"]
+	path = Plugins/HoudiniNiagara
+	url = https://github.com/sideeffects/HoudiniNiagara.git
+	branch = UE5.2
